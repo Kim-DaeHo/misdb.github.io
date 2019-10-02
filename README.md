@@ -7,5 +7,5 @@ Prof. Kim, Dae Ho
 
 - #### [R Tutorial](./R/R-Tutorial/index.html)
 
-- #### R for Big Data Analysis
+- #### [R for Big Data Analysis](./R/R-for-BigData-Analysis/index.html)
 
